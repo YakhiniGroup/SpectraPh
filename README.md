@@ -14,3 +14,5 @@ Step 5. Run Matlab ComputePhasing.m and see Results structure containing Phased 
 
 
 For additional help please be sure to read the github page, wiki and submit issues for any questions.
+
+Animations are available at http://imgur.com/a/fwzBD
