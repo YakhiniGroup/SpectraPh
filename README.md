@@ -1,5 +1,5 @@
 # SpectraPh
-Spectral Phasing Repository
+Spectral Phasing Repository for "Extending partial haplotypes to full genome haplotypes using chromosome conformation capture data" paper published at ECCB2016 and Bioinformatics Vol32 Issue 17.
 
 ## Code usage instructions:
 Step 1. Compile and run SpectraPh.exe SAM2PSAM and follow instructions
